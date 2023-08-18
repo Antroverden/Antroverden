@@ -7,9 +7,9 @@ Java Developer
 I'm passionate about coding on Java and solving leetcode problems. I enjoy building projects that help me learn and grow as a developer. On my GitHub profile, you'll find a collection of my projects. I'm particularly interested in Backend Development, and many of my projects reflect that. You'll find projects that range from Java Core programs to Spring Boot applications, each with its own set of challenges and learning opportunities.
 
 * 🌍  I'm based in Moscow
-* ✉️  You can contact me at [antroverden@gmail.com](mailto:antroverden@gmail.com)
-* 🧠  I'm learning Algorithms and Data Structures
+* 🧠  I'm studying at National University of Science and Technology «MISIS»
 * 🤝  I'm open to collaborating on interesting projects
+* ✉️  You can contact me at [antroverden@gmail.com](mailto:antroverden@gmail.com)
 
 ### Skills
 
